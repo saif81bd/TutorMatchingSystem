@@ -1,0 +1,253 @@
+
+CONFIRMED. Tutor with userid tutor1 successfully created.
+CONFIRMED. Tutor with userid tutor2 successfully created.
+
+CONFIRMED. Student with userid student1 successfully created.
+
+CONFIRMED. TOPIC with userid OO and tutor id tutor1 successfully created.
+CONFIRMED. TOPIC with userid OO and tutor id tutor2 successfully created.
+
+CONFIRMED. Request of student1 on topic OO created successfully.
+
+Student Report:
+Report for Student student1
+Appointment: Tutor : tutor2, Topic: OO, hours: 5, total Cost : 75
+Total number of hours of tutoring: 5
+Total cost of tutoring: 75
+
+Tutor Report:
+tutor1 hasn't been assigned with anyone
+
+Tutor Report:
+Report for Tutor: tutor2
+Appointment: Student : student1, Topic: OO, hours: 5, total revenue : 75
+Total number of hours of tutoring: 5
+Total revenue from tutoring: 75
+
+
+CONFIRMED. Tutor with userid tutor3 successfully created.
+
+CONFIRMED. Student with userid student2 successfully created.
+
+CONFIRMED. TOPIC with userid t2 and tutor id tutor1 successfully created.
+CONFIRMED. TOPIC with userid t2 and tutor id tutor2 successfully created.
+CONFIRMED. TOPIC with userid t2 and tutor id tutor3 successfully created.
+
+CONFIRMED. Request of student2 on topic t2 created successfully.
+
+Student Report:
+Report for Student student2
+Appointment: Tutor : tutor2, Topic: t2, hours: 5, total Cost : 75
+Appointment: Tutor : tutor3, Topic: t2, hours: 10, total Cost : 140
+Total number of hours of tutoring: 15
+Total cost of tutoring: 215
+
+Tutor Report:
+Report for Tutor: tutor3
+Appointment: Student : student2, Topic: t2, hours: 10, total revenue : 140
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 140
+
+Tutor Report:
+Report for Tutor: tutor2
+Appointment: Student : student2, Topic: t2, hours: 5, total revenue : 75
+Appointment: Student : student1, Topic: OO, hours: 5, total revenue : 75
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 150
+
+Tutor Report:
+tutor1 hasn't been assigned with anyone
+
+
+FAILED. Topic: othertopic NOT FOUND
+
+
+CONFIRMED. Request of student1 on topic t2 created successfully.
+
+Student Report:
+Report for Student student1
+Appointment: Tutor : tutor1, Topic: t2, hours: 1, total Cost : 20
+Appointment: Tutor : tutor2, Topic: OO, hours: 5, total Cost : 75
+Total number of hours of tutoring: 6
+Total cost of tutoring: 95
+
+
+CONFIRMED. Tutor with userid tutor4 successfully created.
+CONFIRMED. Tutor with userid tutor5 successfully created.
+CONFIRMED. Tutor with userid tutor6 successfully created.
+
+CONFIRMED. Student with userid student3 successfully created.
+
+CONFIRMED. TOPIC with userid t3 and tutor id tutor4 successfully created.
+CONFIRMED. TOPIC with userid t3 and tutor id tutor5 successfully created.
+CONFIRMED. TOPIC with userid t3 and tutor id tutor6 successfully created.
+
+FAILED. Not available hours found requested by the student student3.
+
+Student Report:
+Student: student3 hasn't been assigned with anyone.
+
+Tutor Report:
+tutor4 hasn't been assigned with anyone
+
+Tutor Report:
+tutor5 hasn't been assigned with anyone
+
+Tutor Report:
+tutor6 hasn't been assigned with anyone
+
+
+Tutor tutor2 doesn't have enough hours to allocate
+
+FAILED. Topic: t4 NOT FOUND
+
+Tutor Report:
+Report for Tutor: tutor2
+Appointment: Student : student2, Topic: t2, hours: 5, total revenue : 75
+Appointment: Student : student1, Topic: OO, hours: 5, total revenue : 75
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 150
+
+
+CONFIRMED. Tutor with userid aaron successfully created.
+CONFIRMED. Tutor with userid betty successfully created.
+CONFIRMED. Tutor with userid charles successfully created.
+CONFIRMED. Tutor with userid deborah successfully created.
+
+CONFIRMED. Student with userid student4 successfully created.
+
+CONFIRMED. TOPIC with userid anothertopicthatslonger and tutor id deborah successfully created.
+CONFIRMED. TOPIC with userid anothertopicthatslonger and tutor id charles successfully created.
+CONFIRMED. TOPIC with userid anothertopicthatslonger and tutor id betty successfully created.
+CONFIRMED. TOPIC with userid anothertopicthatslonger and tutor id aaron successfully created.
+
+CONFIRMED. Request of student4 on topic anothertopicthatslonger created successfully.
+
+
+CONFIRMED. Tutor with userid tutor111 successfully created.
+CONFIRMED. Tutor with userid tutor112 successfully created.
+CONFIRMED. Tutor with userid tutor113 successfully created.
+CONFIRMED. Tutor with userid tutor121 successfully created.
+CONFIRMED. Tutor with userid tutor122 successfully created.
+CONFIRMED. Tutor with userid tutor123 successfully created.
+CONFIRMED. Tutor with userid tutor131 successfully created.
+CONFIRMED. Tutor with userid tutor132 successfully created.
+CONFIRMED. Tutor with userid tutor133 successfully created.
+
+CONFIRMED. Student with userid student111 successfully created.
+CONFIRMED. Student with userid student112 successfully created.
+CONFIRMED. Student with userid student113 successfully created.
+
+CONFIRMED. TOPIC with userid x1 and tutor id tutor111 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor112 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor113 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor121 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor122 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor123 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor131 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor132 successfully created.
+CONFIRMED. TOPIC with userid x1 and tutor id tutor133 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor111 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor112 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor113 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor121 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor122 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor123 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor131 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor132 successfully created.
+CONFIRMED. TOPIC with userid x2 and tutor id tutor133 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor111 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor112 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor113 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor121 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor122 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor123 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor131 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor132 successfully created.
+CONFIRMED. TOPIC with userid x3 and tutor id tutor133 successfully created.
+
+CONFIRMED. Request of student111 on topic x1 created successfully.
+CONFIRMED. Request of student112 on topic x1 created successfully.
+CONFIRMED. Request of student113 on topic x1 created successfully.
+CONFIRMED. Request of student111 on topic x2 created successfully.
+CONFIRMED. Request of student112 on topic x2 created successfully.
+CONFIRMED. Request of student113 on topic x2 created successfully.
+CONFIRMED. Request of student111 on topic x3 created successfully.
+CONFIRMED. Request of student112 on topic x3 created successfully.
+CONFIRMED. Request of student113 on topic x3 created successfully.
+
+Tutor Report:
+Report for Tutor: tutor111
+Appointment: Student : student111, Topic: x1, hours: 10, total revenue : 100
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 100
+
+Tutor Report:
+Report for Tutor: tutor112
+Appointment: Student : student112, Topic: x1, hours: 10, total revenue : 200
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 200
+
+Tutor Report:
+Report for Tutor: tutor113
+Appointment: Student : student113, Topic: x3, hours: 30, total revenue : 900
+Appointment: Student : student112, Topic: x3, hours: 20, total revenue : 600
+Total number of hours of tutoring: 50
+Total revenue from tutoring: 1500
+
+Tutor Report:
+Report for Tutor: tutor121
+Appointment: Student : student111, Topic: x1, hours: 10, total revenue : 100
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 100
+
+Tutor Report:
+Report for Tutor: tutor122
+Appointment: Student : student112, Topic: x1, hours: 10, total revenue : 200
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 200
+
+Tutor Report:
+Report for Tutor: tutor123
+Appointment: Student : student112, Topic: x3, hours: 10, total revenue : 300
+Appointment: Student : student111, Topic: x3, hours: 30, total revenue : 900
+Appointment: Student : student113, Topic: x2, hours: 30, total revenue : 900
+Appointment: Student : student112, Topic: x2, hours: 10, total revenue : 300
+Total number of hours of tutoring: 80
+Total revenue from tutoring: 2400
+
+Tutor Report:
+Report for Tutor: tutor131
+Appointment: Student : student111, Topic: x1, hours: 10, total revenue : 100
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 100
+
+Tutor Report:
+Report for Tutor: tutor132
+Appointment: Student : student112, Topic: x1, hours: 10, total revenue : 200
+Total number of hours of tutoring: 10
+Total revenue from tutoring: 200
+
+Tutor Report:
+Report for Tutor: tutor133
+Appointment: Student : student112, Topic: x2, hours: 20, total revenue : 600
+Appointment: Student : student111, Topic: x2, hours: 30, total revenue : 900
+Appointment: Student : student113, Topic: x1, hours: 30, total revenue : 900
+Total number of hours of tutoring: 80
+Total revenue from tutoring: 2400
+
+
+DUPLICATE Tutor with userid tutor1.
+
+DUPLICATE Student with userid student1.
+
+CONFIRMED. TOPIC with userid OO and tutor id tutor1 successfully created.
+FAILED. No tutor found with tutorID: othertutor
+
+FAILED. No student foind with StudentID: otherstudent
+
+Failed to show report of stewdent. Student not Found
+
+Failed to show report of toootor. Tutor not Found
+
+BYE!
